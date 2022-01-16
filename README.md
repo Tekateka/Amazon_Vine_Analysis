@@ -36,12 +36,11 @@ Using the dataset, PySpark, Pandas, or SQL to determine if there is any bias tow
 
 - Percentage of Vine 5 stars reviews
 
-![](percentVinePaid5Star.png)
+![](PercentVinePaid5Star.png)
 
-- Percentage of non-Vine 5 stars reviews
+- Perecentage of non- Vine 5 stars reviews 
 
-![](percentVineUnPaid5Star.png)
-
+![](PercentVineUnpaid5Star.png)
 
 ## Summary
 The analysis shows that there is a positivity bias for reviews in the Vine program because the total percentage of 5 stars Vine review were 51.1% 

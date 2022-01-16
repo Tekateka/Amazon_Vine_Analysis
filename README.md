@@ -22,7 +22,7 @@ Using the dataset, PySpark, Pandas, or SQL to determine if there is any bias tow
 
 ![](VinePaidReview.png)                                                                        
 
-- Total number of Vine paid reviews (Non-Vine review)
+- Total number of Vine unpaid reviews (Non-Vine review)
 
 ![](VineUnpaidReview.png)
 
@@ -30,7 +30,7 @@ Using the dataset, PySpark, Pandas, or SQL to determine if there is any bias tow
 
 ![](VinePaid5Star.png)
 
-- Total number of Vine Unpaid 5 reviews (Non-Vine review 5 stars)
+- Total number of Vine unpaid 5 reviews (Non-Vine review 5 stars)
 
 ![](VineUnpaid5Star.png)
 
@@ -38,7 +38,7 @@ Using the dataset, PySpark, Pandas, or SQL to determine if there is any bias tow
 
 ![](PercentVinePaid5Star.png)
 
-- Perecentage of non- Vine 5 stars reviews 
+- Perecentage of non-Vine 5 stars reviews 
 
 ![](PercentVineUnpaid5Star.png)
 
